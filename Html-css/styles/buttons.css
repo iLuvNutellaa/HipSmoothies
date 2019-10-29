@@ -1,0 +1,22 @@
+.btn {
+    background-color: #252121;
+    color: #ffffff;
+    font-size: 1.25em;
+    padding: 10px 25px;
+    border: 1px solid #252121;
+    border-radius: 2px;
+    outline: none;
+    transition: all 0.3s;
+}
+
+.centered-button {
+    display: flex;
+    justify-content: center;
+}
+
+.btn:active {
+    box-shadow: 5px 5px 30px rgba(0, 0, 0, 0.4);
+    
+    
+}
+

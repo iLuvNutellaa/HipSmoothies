@@ -1,0 +1,44 @@
+
+body {
+    margin: 0px;
+    
+}
+
+.links-wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.icon {
+    margin-right: 15px;
+}
+
+.icon i {
+    font-size: 2em;
+}
+
+
+.left-column {
+    display: flex;
+    align-items: center;
+    padding: 25px;
+}
+
+.banner-image img {
+    width: 216px;
+    height: 100%;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Concert One', cursive;
+}
+
+
+      
+
+   
+    
+ 
+    
